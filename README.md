@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Vyacheslav-Python
+- 👀 I’m interested in Python and development
+- 🌱 I’m currently learning studying to be a python developer
+- 💞️ I’m looking to collaborate on website and application development
+- 📫 How to reach me, email: rus.python.2024@yandex.ru
